@@ -1,8 +1,3 @@
-# React + Vite
+# NewsMag- Explore Diverse News Domains: React.js App with Bootstrap UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+NewsMag is a modern news app developed using React.js and Bootstrap. Leveraging the News API, our app fetches live news from various domains including technology, sports, entertainment, and business. Users can stay updated with real-time news articles presented in a clean and user-friendly interface
